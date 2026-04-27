@@ -1,0 +1,3 @@
+"D:\Program Files\Rhino 8\System\Yak.exe" build
+"D:\Program Files\Rhino 8\System\Yak.exe" login
+"D:\Program Files\Rhino 8\System\Yak.exe" push spancorelink-0.2.1-rh8_0-any.yak

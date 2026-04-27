@@ -1,0 +1,11 @@
+---
+name: SpanCoreLink
+version: 0.2.1
+icon: icon.png
+authors:
+- jiangyao
+description: Bridge between SAP2000 and Rhino. Import structural models with one click, organize by group/section/material, switch between solid and wireframe views.SAP2000 与 Rhino 的桥梁。一键导入结构模型，支持按组、截面、材料分图层显示，实体/线框自由切换。
+license: MIT
+url: http://www.spancore.cn/
+keywords:
+- guid:d808282b-6487-4ebb-a17c-3958e320ee4b
